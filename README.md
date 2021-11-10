@@ -1,4 +1,5 @@
-##  1er Encuentro Latinoamericano de Música y Tecnología "Transferencias Aurales"
+#Transferencias Aurales
+##  1er Encuentro Latinoamericano de Música y Tecnología
 ## Live coding como práctica y crítica ciberfeminista. 
 
 Miércoles 10 de noviembre.   
@@ -39,7 +40,7 @@ más horizontal”(Soria, 2019, pp. 8).
 tecnologı́as desde la propia tecnologı́a?  
 
 
-# Bibliografía
+### Bibliografía
 
 
 Di Próspero, C. (2015). Live coding. arte computacional en proceso. Arte,
