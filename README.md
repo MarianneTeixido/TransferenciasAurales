@@ -39,6 +39,9 @@ más horizontal”(Soria, 2019, pp. 8).
 tecnologı́as desde la propia tecnologı́a?  
 
 
+# Bibliografía
+
+
 Di Próspero, C. (2015). Live coding. arte computacional en proceso. Arte,
 Cultura y Ciencias Sociales.  
 
